@@ -1,4 +1,4 @@
-name: Nest.js CI
+name: CI
 
 on:
   push:
